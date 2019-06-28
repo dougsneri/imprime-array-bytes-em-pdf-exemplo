@@ -5,6 +5,7 @@ out
 .project
 .idea
 *.iml
+*.pdf
 
 /target/
 .project

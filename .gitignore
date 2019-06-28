@@ -1,0 +1,14 @@
+target
+out
+.settings
+.classpath
+.project
+.idea
+*.iml
+
+/target/
+.project
+.classpath
+/.settings/
+velocity.log
+BKPgitignore
